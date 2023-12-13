@@ -1,8 +1,8 @@
-# SmartContracts
+# Voting Contract
 
-## Contracts
+## Description
 
-There is currently only one contract for voting.
+This is a voting contract where you can vote on your favourite icecream flavour 🍦
 
 ## Truffle Console
 
